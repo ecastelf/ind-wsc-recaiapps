@@ -1,0 +1,7 @@
+---
+metadata:
+  domain: appsecom
+  project_key: RECAIAPPS
+  project_name: wsc-recaiapps
+  risk_profile: CRITICAL (9.5)
+  service: appszaraios
